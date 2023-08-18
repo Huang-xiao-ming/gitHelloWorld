@@ -10,5 +10,6 @@ public class Main {
         System.out.println(c);
         System.out.println("测试");
         System.out.println("Hello World!");
+        System.out.println("你好");
     }
 }
